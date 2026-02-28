@@ -1,0 +1,14 @@
+JAN-
+PVTAMI-RDS
+SSL validations (NTLM,Basic,Kerberos)
+gave KT to new members
+BNM client assessment hotfix
+Cmigrate DEMO to AWS
+Prod 10 RDS
+Manual Analysis for MySQL
+
+Feb-
+BNM client Discovery scheduler validation across all different scenearios
+SSP-QA full validaition across different modules
+Performance Counter Hotfix
+BNM client JEA validations(around 100+ scenarios(IP/FQDN,CA/SSL,NTLM/BASIC/HTTP/HTTPS)
