@@ -1,18 +1,91 @@
-JAN-
-PVTAMI-RDS
-SSL validations (NTLM,Basic,Kerberos)
-gave KT to new members
-BNM client assessment hotfix
-Cmigrate DEMO to AWS
-Prod 10 RDS
-Manual Analysis for MySQL
-Issues Raised:
-MC-8130, MC-8132, MC-8133, MC-8135, MC-8138, MC-8141, MC-8162, MC-8166, MC-8173, MC-8174, MC-8184, MC-8192, MC-8193, MC-8194, MC-8200, MC-8201, MC-8214, MC-8215, MC-8216, MC-8217, MC-8219, MC-8227, MC-8274
+JAN:
 
-Feb-
-BNM client Discovery scheduler validation across all different scenearios
-SSP-QA full validaition across different modules
-Performance Counter Hotfix
-BNM client JEA validations(around 100+ scenarios(IP/FQDN,CA/SSL,NTLM/BASIC/HTTP/HTTPS)
-Issues raised:
-MC-8357, MC-8362, MC-8363, MC-8394, MC-8529, MC-8530, MC-8531, MC-8532, MC-8533, MC-8534, MC-8535, MC-8536, MC-8546, MC-8547, MC-8548, MC-8549, MC-8550, MC-8551, MC-8552, MC-8555, MC-8556, MC-8557, MC-8559, MC-8560, MC-8561, MC-8563, MC-8564, MC-8566, MC-8567, MC-8568, MC-8569, MC-8576, MC-8579, MC-8582, MC-8584, MC-8589, MC-8590, MC-8591, MC-8593, MC-8596, MC-8600, MC-8603, MC-8604, MC-8610, MC-8907, MC-8910, MC-8937, MC-8941, MC-8945, MC-8946, MC-8948, MC-8949, MC-8952
+1. What have been your most significant achievements and contributions in the selected month?
+
+Performed PVT AMI and RDS validation scenarios.
+
+Conducted SSL authentication validations across NTLM, Basic, and Kerberos authentication mechanisms.
+
+Delivered KT sessions for new team members to help with onboarding and knowledge transfer.
+
+Validated the BNM client Assessment hotfix.
+
+Delivered a Cmigrate demo session to AWS stakeholders.
+
+Executed Production 10 RDS validation activities.
+
+Performed manual analysis for MySQL databases to support validation and troubleshooting.
+
+2. Have you identified your performance gaps and development opportunities? If so, detail them.
+
+Need to deepen expertise in authentication and security validation scenarios, especially around SSL and protocol-level behaviors.
+
+Opportunity to improve analytical skills for MySQL database investigations and root-cause analysis.
+
+Can further strengthen confidence and presentation flow during external stakeholder demo sessions.
+
+Scope to improve efficiency when validating production-level RDS scenarios with multiple dependencies.
+
+3. What actions will you take and what support will you require to bridge the performance gaps and achieve your performance targets?
+
+Plan to study authentication workflows and security-related configurations to better understand validation results.
+
+Continue practicing database-level analysis for MySQL to improve troubleshooting accuracy.
+
+Prepare structured demo flows and collect feedback to enhance presentation and communication skills.
+
+Build reusable checklists for production validation activities to improve execution speed and consistency.
+
+Support Required:
+
+Access to documentation or KT sessions focused on authentication mechanisms and security validation.
+
+Guidance from senior team members on advanced MySQL troubleshooting techniques.
+
+Opportunities to participate in additional demo sessions for external stakeholders.
+
+Stable environments and datasets for practicing production-level RDS validation scenarios.
+
+
+
+FEB:
+
+1. What have been your most significant achievements and contributions in the selected month?
+
+Performed BNM client Discovery Scheduler validation covering multiple scheduling scenarios.
+
+Conducted full SSP-QA validation across different modules to ensure feature stability and functionality.
+
+Validated the Performance Counter hotfix and confirmed expected behavior after fixes.
+
+Executed extensive BNM client JEA validations covering 100+ scenarios, including IP/FQDN scope, CA/SSL configurations, and NTLM/Basic authentication over HTTP and HTTPS.
+
+2. Have you identified your performance gaps and development opportunities? If so, detail them.
+
+Need to deepen understanding of advanced authentication and security configurations used in JEA and Discovery validation scenarios.
+
+Opportunity to improve efficiency in handling large-scale validation cycles involving many test combinations.
+
+Scope to enhance documentation practices for complex scenario coverage to improve traceability and reuse.
+
+Can further strengthen knowledge of scheduler behavior and edge-case handling across different environments.
+
+3. What actions will you take and what support will you require to bridge the performance gaps and achieve your performance targets?
+
+Plan to study authentication workflows and SSL/CA configurations in more depth to strengthen validation accuracy.
+
+Create reusable validation matrices for high-volume scenario testing to improve execution efficiency.
+
+Continue practicing structured documentation for complex validations to simplify tracking and reporting.
+
+Explore scheduler workflows and execution patterns to better handle edge cases.
+
+Support Required:
+
+Access to detailed documentation or KT sessions on authentication flows, JEA architecture, and scheduler internals.
+
+Guidance from senior team members when validating complex security and protocol-related scenarios.
+
+Stable environments to execute high-volume validation scenarios efficiently.
+
+Feedback from leads on test coverage strategy for large-scale validations.
